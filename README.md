@@ -1,10 +1,5 @@
 # Hi, I'm Taakshini Devi R 👋
-
-🎓 B.E. CSE + Minor MBA @ SRM MCET, Madurai | CGPA: 8.3  
-💡 Interests: AI · Digital Marketing · Full Stack Dev · Business Technology  
-🔧 Stack: Python · Java · Spring Boot · Figma · Photoshop · Premiere Pro · LangChain  
-📜 15+ Certifications — IBM · Infosys · EDUCBA · MindLuster · SoloLearn  
-🏆 VP Science Club · EurekaHacks Hackathon · TELETEC National Symposium  
+🎓 B.E. CSE @ SRM MCET
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/taakshini-devi-668172293/)
 [![Certificates](https://img.shields.io/badge/Certificates-Google%20Drive-green?logo=googledrive)](https://drive.google.com/drive/folders/1am8yivfI0ObICLVvfcALgH0LysDItU6q)
